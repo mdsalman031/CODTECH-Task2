@@ -36,12 +36,16 @@ git clone <repo-url>
 
 **Install dependencies:**
 
+```bash
 cd portfolio
 npm install
+```
 
 **Run the development server:**
 
+```bash
 npm start
+```
 
 - This will start the project in your local environment, usually accessible at http://localhost:3000/.
 
