@@ -1,3 +1,10 @@
+- Name : MD Salman
+- College : CBIT
+- ID : CT08DS9192
+- Domain : MERN Stack
+- Duration : October to November 2024
+- Mentor : Santhosh Kumar
+
 ### Portfolio Project
 
 ## Description
