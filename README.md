@@ -5,9 +5,13 @@ This is my personal portfolio, showcasing my skills as a web developer with a fo
 
 ## Features
 **About Me Section:** A brief introduction about myself, including my technical skills and aspirations.
+
 **Skills Section:** A rotating cube with icons for different technologies that I am proficient in (Angular, React, CSS, JavaScript, HTML, Git).
+
 **Home Section:** Introduction with dynamic text animation and a link to contact me.
+
 **Contact Form:** A form to send messages to my email using EmailJS, along with a map to visualize my location.
+
 **Loader Animation:** A loader animation (Pacman style) displayed during page transitions.
 
 ## Technologies Used
@@ -17,6 +21,7 @@ This is my personal portfolio, showcasing my skills as a web developer with a fo
 - Font Awesome
 - React-Leaflet (for map)
 - EmailJS (for sending form data)
+- 
 **Backend:** No backend for this project (static portfolio).
 
 ## Installation
