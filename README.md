@@ -21,7 +21,7 @@ This is my personal portfolio, showcasing my skills as a web developer with a fo
 - Font Awesome
 - React-Leaflet (for map)
 - EmailJS (for sending form data)
-- 
+  
 **Backend:** No backend for this project (static portfolio).
 
 ## Installation
